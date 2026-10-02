@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+gradio
+requests
+torch
+transformers
+datasets
+scikit-learn
+numpy
+matplotlib
