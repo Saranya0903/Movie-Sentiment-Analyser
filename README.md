@@ -39,18 +39,18 @@ distilbert_best_final.pt  Best-validation DistilBERT checkpoint (used by the app
 
 1. Clone the repository. The `.pt` weight files are stored with Git LFS, so install it first:
 
-   ```
+```
    git lfs install
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Saranya0903/Movie-Sentiment-Analyser.git
+   cd Movie-Sentiment-Analyser
    git lfs pull
-   ```
+```
 
 2. Install the dependencies:
 
-   ```
+```
    pip install -r requirements.txt
-   ```
+```
 
 ## Run
 
